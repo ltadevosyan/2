@@ -1,1 +1,1 @@
-#ltadevosyan.github.io/Carousel/
+ltadevosyan.github.io/Carousel/
